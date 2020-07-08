@@ -1,0 +1,256 @@
+.sign-in{    
+width: 65px;
+height: 40px;
+background: #21B573;
+border-radius: 33px;
+}
+
+
+.nav-gap{
+    margin-left: 20px;
+}
+.logo{
+    height: 50px;
+    width: 160px;
+}
+.highlighter{
+    color: #21B573;
+}
+.red-highlighter{
+    margin-top: 0px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+.btn-clr{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 30px;
+}
+.btn-clr:hover{
+    cursor: pointer;
+    color: white;
+    background-color: tomato;
+    border: none;
+    padding: 10px 40px;
+    border-radius: 30px;
+}
+.top-bg{
+  border-radius: 5px;
+    background: #F0FFF0;
+    padding-bottom: 20px;
+}
+.focused-lines{
+color: black;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+}
+.usual{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+}
+.a{
+    
+    width: 66px;
+    height: 85px;
+}
+.carousel-item{
+    padding: 0px 30px;
+    border-radius: 5px;
+}
+.icon{
+    width: 66px;
+    height: 75px;
+    margin: 20px 0px;
+
+}
+
+
+
+.icon-1{
+    height: 250px;
+    padding-top: 30px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+
+
+.icon-1:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+
+.icon-2{
+    height: 250px;
+    padding-top: 30px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+
+.icon-2:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+
+}
+
+.icon-3 {
+    height: 250px;
+    padding-top: 30px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+
+.icon-3:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.icon-4 {
+    height: 250px;
+    padding-top: 30px;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.icon-4:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.gap{
+    margin-top: 40px;
+}
+
+.img-size{
+    height: 20px;
+    width: 20px;
+}
+
+.man{
+    width: 120px;
+height: 120px;
+}
+.man-text{
+   
+    text-align: justify;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 34px;
+/* or 187% */
+
+
+color: #000000;
+}
+.testimonial{
+    padding: 0px 80px;
+}
+
+.headings{
+    padding: 30px 0px;
+    text-align: center;
+    color: black;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+
+}
+
+.buy-course-btn{
+
+    color: white;
+    background-color: #21B573;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 100px;
+}
+.buy-course-btn:hover{
+
+
+    background-color: tomato;
+}
+.card{
+    padding: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.bottom-bg{
+    margin-top: 50px;
+    border-radius: 5px;
+    padding-top: 45px;
+    
+    background-color: #282531;
+}
+.woman-text{
+    text-align: justify;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 22px;
+color: white;
+}
+
+.copyright{
+    margin: 60px 0px;
+    padding-bottom: 30px;
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 25px;
+    padding-top: 30px;
+    font-size: 15px;
+line-height: 25px;
+    color: white;
+    text-align: center;
+}
+.significant{
+    text-align: justify;
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 25px;
+/* or 187% */
+
+
+color: white;
+}
+.padd{
+    text-align: center;
+    padding: 0px 120px;
+}
+.footer{
+    padding-left: 0px;
+    padding-right: 40px;
+    margin-left: 0px;
+}
+.input-box{
+    padding-top: 0px;
+    width: 85%;
+    margin: auto;
+
+}
+
+.input:hover{
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
+
